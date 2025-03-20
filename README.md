@@ -1,1 +1,2 @@
 # Car-Affordabilty
+This report synthesizes the findings of an analysis conducted on a dataset of car sales, focusing on key factors influencing purchasing decisions. The dataset comprised 13 columns, including vehicle name, year of manufacture, selling price, transmission type, fuel type, kilometers driven, number of previous owners, maximum power, torque, and seating capacity. The analysis specifically examined the impact of year, selling price, fuel type, seller type, mileage, engine size, maximum power, and torque on sales outcomes.
